@@ -17,3 +17,16 @@
 ## EJECUTAR LAS PRUEBAS
   ![image](https://user-images.githubusercontent.com/78982514/131761053-4ae753ad-3ca9-489b-a30b-e47e27008512.png)
   ![image](https://user-images.githubusercontent.com/78982514/131761060-8afe93b5-4bf0-4fd4-ae3e-48e501a9fd09.png)
+  
+## FINALIZAR EL EJERCICIO
+- Piense en los casos de equivalencia que se pueden generar del ejercicio para la registraduría, dadas las condiciones. Deben ser al menos 5.
+
+
+- Complete la implementación del método registerVoter en la clase Registry.java para retornar el resultado esperado según la entrada.
+- 
+![image](https://user-images.githubusercontent.com/88836525/131763753-d9d485dc-1079-4bbf-be52-1838a99edcb3.png)
+
+- Complete la implementación de la clase RegistryTest.java con (al menos) un método por cada clase de equivalencia, creando diferentes personas y validando que el resultado sea el esperado.
+
+![image](https://user-images.githubusercontent.com/88836525/131763787-9532be88-cf7e-40aa-b1fa-da8d1d10ca4c.png)
+
